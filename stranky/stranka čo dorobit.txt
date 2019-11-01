@@ -1,0 +1,4 @@
+-registracia dorobyt adresu a emaily
+-objednavky blbne tam ten dorny panel 
+-tabulky formatovanie tlačitok 
+-css
